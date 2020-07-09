@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**cgathergood/cgathergood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Calum and I'm a Scottish Software developer living and working in Sydney Australia 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇦🇺
 
-Here are some ideas to get you started:
+I started out as a native Android developer but have a tendedncy to float between different tech stacks, however I like to hover around frontend apps mostly 💻 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've learned new technologies before and will do so again 💡
+
+I have experience building and leading technical teams 🛠
+
+Right now I'm working with React Native, Typescript, Node and GraphQL.
+
+In the past I've worked with native Android Java/Kotlin, native iOS ObjC/Swift, Python, Angular and a little bit of Go.
+
+You can find me on LinkedIn here - https://www.linkedin.com/in/calumgathergood/ 
+And tweet ever so infrequently over here - https://twitter.com/cgathergood
