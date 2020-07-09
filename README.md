@@ -13,4 +13,5 @@ Right now I'm working with React Native, Typescript, Node and GraphQL.
 In the past I've worked with native Android Java/Kotlin, native iOS ObjC/Swift, Python, Angular and a little bit of Go.
 
 You can find me on LinkedIn here - https://www.linkedin.com/in/calumgathergood/ 
-And tweet ever so infrequently over here - https://twitter.com/cgathergood
+
+And tweeting ever so infrequently over here - https://twitter.com/cgathergood
