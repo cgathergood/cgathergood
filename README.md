@@ -2,7 +2,7 @@
 
 My name is Calum and I'm a Scottish Software developer living and working in Sydney Australia 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇦🇺
 
-I started out as a native Android developer but have a tendedncy to float between different tech stacks, however I like to hover around frontend apps mostly 💻 📱
+I started out as a native Android developer but have a tendency to float between different tech stacks, however I like to hover around frontend apps mostly 💻 📱
 
 I've learned new technologies before and will do so again 💡
 
