@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Calum and I'm a Scottish Software developer working for [Thinkmill](https://www.thinkmill.com.au/) in Sydney Australia 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇦🇺
+My name is Calum and I'm a Scottish Software developer working for [Prospa](https://www.prospa.com/) in Sydney Australia 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇦🇺
 
 I started out as a native Android developer but have a tendency to float between different tech stacks, however I like to hover around frontend apps mostly 💻 📱
 
